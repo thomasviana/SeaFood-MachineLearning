@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4DC03E7A270226A70063D7C9"
-               BuildableName = "SeaFood.app"
-               BlueprintName = "SeaFood"
-               ReferencedContainer = "container:SeaFood.xcodeproj">
+               BuildableName = "SeeFood.app"
+               BlueprintName = "SeeFood"
+               ReferencedContainer = "container:SeeFood.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4DC03E7A270226A70063D7C9"
-            BuildableName = "SeaFood.app"
-            BlueprintName = "SeaFood"
-            ReferencedContainer = "container:SeaFood.xcodeproj">
+            BuildableName = "SeeFood.app"
+            BlueprintName = "SeeFood"
+            ReferencedContainer = "container:SeeFood.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4DC03E7A270226A70063D7C9"
-            BuildableName = "SeaFood.app"
-            BlueprintName = "SeaFood"
-            ReferencedContainer = "container:SeaFood.xcodeproj">
+            BuildableName = "SeeFood.app"
+            BlueprintName = "SeeFood"
+            ReferencedContainer = "container:SeeFood.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

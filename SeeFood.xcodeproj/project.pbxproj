@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4DC03E7B270226A70063D7C9 /* SeaFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeaFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DC03E7B270226A70063D7C9 /* SeeFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeeFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DC03E7E270226A70063D7C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DC03E80270226A70063D7C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4DC03E82270226A70063D7C9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		4DC03E72270226A70063D7C9 = {
 			isa = PBXGroup;
 			children = (
-				4DC03E7D270226A70063D7C9 /* SeaFood */,
+				4DC03E7D270226A70063D7C9 /* SeeFood */,
 				4DC03E7C270226A70063D7C9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		4DC03E7C270226A70063D7C9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4DC03E7B270226A70063D7C9 /* SeaFood.app */,
+				4DC03E7B270226A70063D7C9 /* SeeFood.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4DC03E7D270226A70063D7C9 /* SeaFood */ = {
+		4DC03E7D270226A70063D7C9 /* SeeFood */ = {
 			isa = PBXGroup;
 			children = (
 				4DC03E7E270226A70063D7C9 /* AppDelegate.swift */,
@@ -70,15 +70,15 @@
 				4DC03E87270226A70063D7C9 /* SeeFood.xcdatamodeld */,
 				4DC03E95270227250063D7C9 /* Inceptionv3.mlmodel */,
 			);
-			path = SeaFood;
+			path = SeeFood;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4DC03E7A270226A70063D7C9 /* SeaFood */ = {
+		4DC03E7A270226A70063D7C9 /* SeeFood */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4DC03E92270226B00063D7C9 /* Build configuration list for PBXNativeTarget "SeaFood" */;
+			buildConfigurationList = 4DC03E92270226B00063D7C9 /* Build configuration list for PBXNativeTarget "SeeFood" */;
 			buildPhases = (
 				4DC03E77270226A70063D7C9 /* Sources */,
 				4DC03E78270226A70063D7C9 /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = SeaFood;
+			name = SeeFood;
 			productName = SeeFood;
-			productReference = 4DC03E7B270226A70063D7C9 /* SeaFood.app */;
+			productReference = 4DC03E7B270226A70063D7C9 /* SeeFood.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -107,7 +107,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4DC03E76270226A70063D7C9 /* Build configuration list for PBXProject "SeaFood" */;
+			buildConfigurationList = 4DC03E76270226A70063D7C9 /* Build configuration list for PBXProject "SeeFood" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -120,7 +120,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4DC03E7A270226A70063D7C9 /* SeaFood */,
+				4DC03E7A270226A70063D7C9 /* SeeFood */,
 			);
 		};
 /* End PBXProject section */
@@ -296,12 +296,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6HS32GP5PD;
-				INFOPLIST_FILE = SeaFood/Info.plist;
+				INFOPLIST_FILE = SeeFood/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.thomasviana.SeaFood;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thomasviana.SeeFood;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,12 +315,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6HS32GP5PD;
-				INFOPLIST_FILE = SeaFood/Info.plist;
+				INFOPLIST_FILE = SeeFood/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.thomasviana.SeaFood;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thomasviana.SeeFood;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -330,7 +330,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4DC03E76270226A70063D7C9 /* Build configuration list for PBXProject "SeaFood" */ = {
+		4DC03E76270226A70063D7C9 /* Build configuration list for PBXProject "SeeFood" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4DC03E90270226B00063D7C9 /* Debug */,
@@ -339,7 +339,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4DC03E92270226B00063D7C9 /* Build configuration list for PBXNativeTarget "SeaFood" */ = {
+		4DC03E92270226B00063D7C9 /* Build configuration list for PBXNativeTarget "SeeFood" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4DC03E93270226B00063D7C9 /* Debug */,
